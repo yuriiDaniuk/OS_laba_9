@@ -20,6 +20,16 @@
 * ChatClient.exe - програма для **Користувачів**, які можуть генерувати ідеї та голосувати
 * Server.exe - програма для **Керівника (Сервер)**
 
+
+### Вигляд програм
+
+#### Server Panel
+<img width="797" height="655" alt="Screenshot 2025-12-15 at 13 43 01" src="https://github.com/user-attachments/assets/105b1a67-a323-44d7-b615-1a78ecee9ab3" />
+
+
+#### Student Panel
+<img width="447" height="727" alt="Screenshot 2025-12-15 at 13 41 39" src="https://github.com/user-attachments/assets/0f59cbe8-bea8-4469-b4d0-e6bd314b592c" />
+
 ### Інструкції з Запуску
 
 Оскільки проект використовує сокети, необхідно спочатку запустити **Сервер (Керівник)**, а потім **Клієнтів (Виконавці)**.
