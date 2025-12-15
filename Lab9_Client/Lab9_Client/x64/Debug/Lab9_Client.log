@@ -1,0 +1,706 @@
+﻿   Qt/MSBuild: 3.3.1.1
+   Qt: 6.7.3
+  moc Lab9_Client.h
+  moc MyClient.h
+  Lab9_Client.cpp
+  MyClient.cpp
+  main.cpp
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\Lab9_Client.h(1,1): warning C4828: The file contains a character starting at offset 0x15e that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'main.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\Lab9_Client.h(1,1): warning C4828: The file contains a character starting at offset 0x160 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'main.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\Lab9_Client.h(1,1): warning C4828: The file contains a character starting at offset 0x162 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'main.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\Lab9_Client.h(1,1): warning C4828: The file contains a character starting at offset 0x166 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'main.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\Lab9_Client.h(1,1): warning C4828: The file contains a character starting at offset 0x169 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'main.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\Lab9_Client.h(1,1): warning C4828: The file contains a character starting at offset 0x16d that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'main.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\Lab9_Client.h(1,1): warning C4828: The file contains a character starting at offset 0x170 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'main.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\Lab9_Client.h(1,1): warning C4828: The file contains a character starting at offset 0x174 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'main.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\Lab9_Client.h(1,1): warning C4828: The file contains a character starting at offset 0x177 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'main.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\Lab9_Client.h(1,1): warning C4828: The file contains a character starting at offset 0x17a that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'main.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\Lab9_Client.h(1,1): warning C4828: The file contains a character starting at offset 0x286 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'main.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\MyClient.h(1,1): warning C4828: The file contains a character starting at offset 0x1a8 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'MyClient.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\Lab9_Client.h(1,1): warning C4828: The file contains a character starting at offset 0x15e that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'Lab9_Client.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\MyClient.h(1,1): warning C4828: The file contains a character starting at offset 0x1aa that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'MyClient.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\Lab9_Client.h(1,1): warning C4828: The file contains a character starting at offset 0x288 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'main.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\Lab9_Client.h(1,1): warning C4828: The file contains a character starting at offset 0x160 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'Lab9_Client.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\MyClient.h(1,1): warning C4828: The file contains a character starting at offset 0x1ae that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'MyClient.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\Lab9_Client.h(1,1): warning C4828: The file contains a character starting at offset 0x162 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'Lab9_Client.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\Lab9_Client.h(1,1): warning C4828: The file contains a character starting at offset 0x28d that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'main.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\MyClient.h(1,1): warning C4828: The file contains a character starting at offset 0x1b2 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'MyClient.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\Lab9_Client.h(1,1): warning C4828: The file contains a character starting at offset 0x166 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'Lab9_Client.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\Lab9_Client.h(1,1): warning C4828: The file contains a character starting at offset 0x290 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'main.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\MyClient.h(1,1): warning C4828: The file contains a character starting at offset 0x1b7 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'MyClient.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\Lab9_Client.h(1,1): warning C4828: The file contains a character starting at offset 0x169 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'Lab9_Client.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\Lab9_Client.h(1,1): warning C4828: The file contains a character starting at offset 0x2f0 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'main.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\MyClient.h(1,1): warning C4828: The file contains a character starting at offset 0x1ba that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'MyClient.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\Lab9_Client.h(1,1): warning C4828: The file contains a character starting at offset 0x16d that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'Lab9_Client.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\MyClient.h(1,1): warning C4828: The file contains a character starting at offset 0x1bb that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'MyClient.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\Lab9_Client.h(1,1): warning C4828: The file contains a character starting at offset 0x2f2 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'main.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\Lab9_Client.h(1,1): warning C4828: The file contains a character starting at offset 0x170 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'Lab9_Client.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\MyClient.h(1,1): warning C4828: The file contains a character starting at offset 0x1fc that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'MyClient.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\Lab9_Client.h(1,1): warning C4828: The file contains a character starting at offset 0x2f5 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'main.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\Lab9_Client.h(1,1): warning C4828: The file contains a character starting at offset 0x174 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'Lab9_Client.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\MyClient.h(1,1): warning C4828: The file contains a character starting at offset 0x201 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'MyClient.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\Lab9_Client.h(1,1): warning C4828: The file contains a character starting at offset 0x2f7 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'main.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\Lab9_Client.h(1,1): warning C4828: The file contains a character starting at offset 0x177 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'Lab9_Client.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\Lab9_Client.h(1,1): warning C4828: The file contains a character starting at offset 0x2f8 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'main.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\MyClient.h(1,1): warning C4828: The file contains a character starting at offset 0x203 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'MyClient.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\Lab9_Client.h(1,1): warning C4828: The file contains a character starting at offset 0x17a that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'Lab9_Client.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\Lab9_Client.h(1,1): warning C4828: The file contains a character starting at offset 0x2fb that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'main.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\MyClient.h(1,1): warning C4828: The file contains a character starting at offset 0x205 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'MyClient.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\Lab9_Client.h(1,1): warning C4828: The file contains a character starting at offset 0x2ff that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'main.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\Lab9_Client.h(1,1): warning C4828: The file contains a character starting at offset 0x286 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'Lab9_Client.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\MyClient.h(1,1): warning C4828: The file contains a character starting at offset 0x206 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'MyClient.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\Lab9_Client.h(1,1): warning C4828: The file contains a character starting at offset 0x300 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'main.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\MyClient.h(1,1): warning C4828: The file contains a character starting at offset 0x23c that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'MyClient.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\Lab9_Client.h(1,1): warning C4828: The file contains a character starting at offset 0x288 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'Lab9_Client.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\Lab9_Client.h(1,1): warning C4828: The file contains a character starting at offset 0x303 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'main.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\MyClient.h(1,1): warning C4828: The file contains a character starting at offset 0x23e that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'MyClient.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\Lab9_Client.h(1,1): warning C4828: The file contains a character starting at offset 0x28d that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'Lab9_Client.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\Lab9_Client.h(1,1): warning C4828: The file contains a character starting at offset 0x305 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'main.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\MyClient.h(1,1): warning C4828: The file contains a character starting at offset 0x242 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'MyClient.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\Lab9_Client.h(1,1): warning C4828: The file contains a character starting at offset 0x290 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'Lab9_Client.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\Lab9_Client.h(1,1): warning C4828: The file contains a character starting at offset 0x326 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'main.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\MyClient.h(1,1): warning C4828: The file contains a character starting at offset 0x245 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'MyClient.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\Lab9_Client.h(1,1): warning C4828: The file contains a character starting at offset 0x2f0 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'Lab9_Client.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\Lab9_Client.h(1,1): warning C4828: The file contains a character starting at offset 0x328 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'main.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\MyClient.h(1,1): warning C4828: The file contains a character starting at offset 0x279 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'MyClient.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\Lab9_Client.h(1,1): warning C4828: The file contains a character starting at offset 0x2f2 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'Lab9_Client.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\Lab9_Client.h(1,1): warning C4828: The file contains a character starting at offset 0x32c that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'main.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\MyClient.h(1,1): warning C4828: The file contains a character starting at offset 0x27b that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'MyClient.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\Lab9_Client.h(1,1): warning C4828: The file contains a character starting at offset 0x2f5 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'Lab9_Client.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\Lab9_Client.h(1,1): warning C4828: The file contains a character starting at offset 0x32f that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'main.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\MyClient.h(1,1): warning C4828: The file contains a character starting at offset 0x27f that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'MyClient.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\Lab9_Client.h(1,1): warning C4828: The file contains a character starting at offset 0x2f7 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'Lab9_Client.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\Lab9_Client.h(1,1): warning C4828: The file contains a character starting at offset 0x351 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'main.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\MyClient.h(1,1): warning C4828: The file contains a character starting at offset 0x282 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'MyClient.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\Lab9_Client.h(1,1): warning C4828: The file contains a character starting at offset 0x353 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'main.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\Lab9_Client.h(1,1): warning C4828: The file contains a character starting at offset 0x2f8 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'Lab9_Client.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\Lab9_Client.h(1,1): warning C4828: The file contains a character starting at offset 0x2fb that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'Lab9_Client.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\Lab9_Client.h(1,1): warning C4828: The file contains a character starting at offset 0x357 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'main.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\Lab9_Client.h(1,1): warning C4828: The file contains a character starting at offset 0x2ff that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'Lab9_Client.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\Lab9_Client.h(1,1): warning C4828: The file contains a character starting at offset 0x35a that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'main.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\Lab9_Client.h(1,1): warning C4828: The file contains a character starting at offset 0x300 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'Lab9_Client.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\Lab9_Client.h(1,1): warning C4828: The file contains a character starting at offset 0x368 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'main.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\Lab9_Client.h(1,1): warning C4828: The file contains a character starting at offset 0x303 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'Lab9_Client.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\Lab9_Client.h(1,1): warning C4828: The file contains a character starting at offset 0x36a that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'main.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\Lab9_Client.h(1,1): warning C4828: The file contains a character starting at offset 0x305 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'Lab9_Client.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\Lab9_Client.h(1,1): warning C4828: The file contains a character starting at offset 0x36d that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'main.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\Lab9_Client.h(1,1): warning C4828: The file contains a character starting at offset 0x326 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'Lab9_Client.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\Lab9_Client.h(1,1): warning C4828: The file contains a character starting at offset 0x328 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'Lab9_Client.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\Lab9_Client.h(1,1): warning C4828: The file contains a character starting at offset 0x36f that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'main.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\Lab9_Client.h(1,1): warning C4828: The file contains a character starting at offset 0x32c that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'Lab9_Client.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\Lab9_Client.h(1,1): warning C4828: The file contains a character starting at offset 0x370 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'main.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\Lab9_Client.h(1,1): warning C4828: The file contains a character starting at offset 0x32f that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'Lab9_Client.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\Lab9_Client.h(1,1): warning C4828: The file contains a character starting at offset 0x3b4 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'main.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\Lab9_Client.h(1,1): warning C4828: The file contains a character starting at offset 0x351 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'Lab9_Client.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\Lab9_Client.h(1,1): warning C4828: The file contains a character starting at offset 0x3b6 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'main.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\Lab9_Client.h(1,1): warning C4828: The file contains a character starting at offset 0x353 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'Lab9_Client.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\Lab9_Client.h(1,1): warning C4828: The file contains a character starting at offset 0x3b9 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'main.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\Lab9_Client.h(1,1): warning C4828: The file contains a character starting at offset 0x357 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'Lab9_Client.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\Lab9_Client.h(1,1): warning C4828: The file contains a character starting at offset 0x3bb that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'main.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\Lab9_Client.h(1,1): warning C4828: The file contains a character starting at offset 0x35a that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'Lab9_Client.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\Lab9_Client.h(1,1): warning C4828: The file contains a character starting at offset 0x3be that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'main.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\Lab9_Client.h(1,1): warning C4828: The file contains a character starting at offset 0x368 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'Lab9_Client.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\Lab9_Client.h(1,1): warning C4828: The file contains a character starting at offset 0x3c1 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'main.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\Lab9_Client.h(1,1): warning C4828: The file contains a character starting at offset 0x36a that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'Lab9_Client.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\Lab9_Client.h(1,1): warning C4828: The file contains a character starting at offset 0x3c4 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'main.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\Lab9_Client.h(1,1): warning C4828: The file contains a character starting at offset 0x36d that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'Lab9_Client.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\Lab9_Client.h(1,1): warning C4828: The file contains a character starting at offset 0x36f that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'Lab9_Client.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\Lab9_Client.h(1,1): warning C4828: The file contains a character starting at offset 0x370 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'Lab9_Client.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\Lab9_Client.h(1,1): warning C4828: The file contains a character starting at offset 0x3b4 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'Lab9_Client.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\Lab9_Client.h(1,1): warning C4828: The file contains a character starting at offset 0x3b6 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'Lab9_Client.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\Lab9_Client.h(1,1): warning C4828: The file contains a character starting at offset 0x3b9 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'Lab9_Client.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\Lab9_Client.h(1,1): warning C4828: The file contains a character starting at offset 0x3bb that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'Lab9_Client.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\Lab9_Client.h(1,1): warning C4828: The file contains a character starting at offset 0x3be that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'Lab9_Client.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\Lab9_Client.h(1,1): warning C4828: The file contains a character starting at offset 0x3c1 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'Lab9_Client.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\Lab9_Client.h(1,1): warning C4828: The file contains a character starting at offset 0x3c4 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'Lab9_Client.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\MyClient.h(1,1): warning C4828: The file contains a character starting at offset 0x1a8 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'main.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\MyClient.h(1,1): warning C4828: The file contains a character starting at offset 0x1aa that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'main.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\MyClient.h(1,1): warning C4828: The file contains a character starting at offset 0x1ae that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'main.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\MyClient.h(1,1): warning C4828: The file contains a character starting at offset 0x1b2 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'main.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\MyClient.h(1,1): warning C4828: The file contains a character starting at offset 0x1b7 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'main.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\MyClient.h(1,1): warning C4828: The file contains a character starting at offset 0x1ba that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'main.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\MyClient.h(1,1): warning C4828: The file contains a character starting at offset 0x1bb that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'main.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\MyClient.h(1,1): warning C4828: The file contains a character starting at offset 0x1fc that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'main.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\MyClient.h(1,1): warning C4828: The file contains a character starting at offset 0x201 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'main.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\MyClient.h(1,1): warning C4828: The file contains a character starting at offset 0x203 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'main.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\MyClient.h(1,1): warning C4828: The file contains a character starting at offset 0x205 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'main.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\MyClient.h(1,1): warning C4828: The file contains a character starting at offset 0x206 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'main.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\MyClient.h(1,1): warning C4828: The file contains a character starting at offset 0x23c that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'main.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\MyClient.h(1,1): warning C4828: The file contains a character starting at offset 0x23e that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'main.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\MyClient.h(1,1): warning C4828: The file contains a character starting at offset 0x242 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'main.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\MyClient.h(1,1): warning C4828: The file contains a character starting at offset 0x245 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'main.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\MyClient.h(1,1): warning C4828: The file contains a character starting at offset 0x279 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'main.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\MyClient.h(1,1): warning C4828: The file contains a character starting at offset 0x27b that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'main.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\MyClient.h(1,1): warning C4828: The file contains a character starting at offset 0x27f that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'main.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\MyClient.h(1,1): warning C4828: The file contains a character starting at offset 0x282 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'main.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\MyClient.h(1,1): warning C4828: The file contains a character starting at offset 0x1a8 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'Lab9_Client.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\MyClient.h(1,1): warning C4828: The file contains a character starting at offset 0x1aa that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'Lab9_Client.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\MyClient.h(1,1): warning C4828: The file contains a character starting at offset 0x1ae that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'Lab9_Client.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\MyClient.h(1,1): warning C4828: The file contains a character starting at offset 0x1b2 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'Lab9_Client.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\MyClient.h(1,1): warning C4828: The file contains a character starting at offset 0x1b7 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'Lab9_Client.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\MyClient.h(1,1): warning C4828: The file contains a character starting at offset 0x1ba that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'Lab9_Client.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\MyClient.h(1,1): warning C4828: The file contains a character starting at offset 0x1bb that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'Lab9_Client.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\MyClient.h(1,1): warning C4828: The file contains a character starting at offset 0x1fc that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'Lab9_Client.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\MyClient.h(1,1): warning C4828: The file contains a character starting at offset 0x201 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'Lab9_Client.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\MyClient.h(1,1): warning C4828: The file contains a character starting at offset 0x203 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'Lab9_Client.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\MyClient.h(1,1): warning C4828: The file contains a character starting at offset 0x205 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'Lab9_Client.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\MyClient.h(1,1): warning C4828: The file contains a character starting at offset 0x206 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'Lab9_Client.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\MyClient.h(1,1): warning C4828: The file contains a character starting at offset 0x23c that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'Lab9_Client.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\MyClient.h(1,1): warning C4828: The file contains a character starting at offset 0x23e that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'Lab9_Client.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\MyClient.h(1,1): warning C4828: The file contains a character starting at offset 0x242 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'Lab9_Client.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\MyClient.h(1,1): warning C4828: The file contains a character starting at offset 0x245 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'Lab9_Client.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\MyClient.h(1,1): warning C4828: The file contains a character starting at offset 0x279 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'Lab9_Client.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\MyClient.h(1,1): warning C4828: The file contains a character starting at offset 0x27b that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'Lab9_Client.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\MyClient.h(1,1): warning C4828: The file contains a character starting at offset 0x27f that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'Lab9_Client.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\MyClient.h(1,1): warning C4828: The file contains a character starting at offset 0x282 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'Lab9_Client.cpp')
+  
+  moc_Lab9_Client.cpp
+  moc_MyClient.cpp
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\MyClient.h(1,1): warning C4828: The file contains a character starting at offset 0x1a8 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'x64/Debug/qt/moc/moc_MyClient.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\MyClient.h(1,1): warning C4828: The file contains a character starting at offset 0x1aa that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'x64/Debug/qt/moc/moc_MyClient.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\Lab9_Client.h(1,1): warning C4828: The file contains a character starting at offset 0x15e that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'x64/Debug/qt/moc/moc_Lab9_Client.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\MyClient.h(1,1): warning C4828: The file contains a character starting at offset 0x1ae that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'x64/Debug/qt/moc/moc_MyClient.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\Lab9_Client.h(1,1): warning C4828: The file contains a character starting at offset 0x160 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'x64/Debug/qt/moc/moc_Lab9_Client.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\MyClient.h(1,1): warning C4828: The file contains a character starting at offset 0x1b2 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'x64/Debug/qt/moc/moc_MyClient.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\Lab9_Client.h(1,1): warning C4828: The file contains a character starting at offset 0x162 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'x64/Debug/qt/moc/moc_Lab9_Client.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\MyClient.h(1,1): warning C4828: The file contains a character starting at offset 0x1b7 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'x64/Debug/qt/moc/moc_MyClient.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\Lab9_Client.h(1,1): warning C4828: The file contains a character starting at offset 0x166 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'x64/Debug/qt/moc/moc_Lab9_Client.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\MyClient.h(1,1): warning C4828: The file contains a character starting at offset 0x1ba that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'x64/Debug/qt/moc/moc_MyClient.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\Lab9_Client.h(1,1): warning C4828: The file contains a character starting at offset 0x169 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'x64/Debug/qt/moc/moc_Lab9_Client.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\MyClient.h(1,1): warning C4828: The file contains a character starting at offset 0x1bb that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'x64/Debug/qt/moc/moc_MyClient.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\Lab9_Client.h(1,1): warning C4828: The file contains a character starting at offset 0x16d that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'x64/Debug/qt/moc/moc_Lab9_Client.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\Lab9_Client.h(1,1): warning C4828: The file contains a character starting at offset 0x170 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'x64/Debug/qt/moc/moc_Lab9_Client.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\MyClient.h(1,1): warning C4828: The file contains a character starting at offset 0x1fc that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'x64/Debug/qt/moc/moc_MyClient.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\Lab9_Client.h(1,1): warning C4828: The file contains a character starting at offset 0x174 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'x64/Debug/qt/moc/moc_Lab9_Client.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\MyClient.h(1,1): warning C4828: The file contains a character starting at offset 0x201 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'x64/Debug/qt/moc/moc_MyClient.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\MyClient.h(1,1): warning C4828: The file contains a character starting at offset 0x203 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'x64/Debug/qt/moc/moc_MyClient.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\MyClient.h(1,1): warning C4828: The file contains a character starting at offset 0x205 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'x64/Debug/qt/moc/moc_MyClient.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\Lab9_Client.h(1,1): warning C4828: The file contains a character starting at offset 0x177 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'x64/Debug/qt/moc/moc_Lab9_Client.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\MyClient.h(1,1): warning C4828: The file contains a character starting at offset 0x206 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'x64/Debug/qt/moc/moc_MyClient.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\MyClient.h(1,1): warning C4828: The file contains a character starting at offset 0x23c that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'x64/Debug/qt/moc/moc_MyClient.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\MyClient.h(1,1): warning C4828: The file contains a character starting at offset 0x23e that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'x64/Debug/qt/moc/moc_MyClient.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\Lab9_Client.h(1,1): warning C4828: The file contains a character starting at offset 0x17a that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'x64/Debug/qt/moc/moc_Lab9_Client.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\MyClient.h(1,1): warning C4828: The file contains a character starting at offset 0x242 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'x64/Debug/qt/moc/moc_MyClient.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\MyClient.h(1,1): warning C4828: The file contains a character starting at offset 0x245 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'x64/Debug/qt/moc/moc_MyClient.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\Lab9_Client.h(1,1): warning C4828: The file contains a character starting at offset 0x286 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'x64/Debug/qt/moc/moc_Lab9_Client.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\MyClient.h(1,1): warning C4828: The file contains a character starting at offset 0x279 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'x64/Debug/qt/moc/moc_MyClient.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\Lab9_Client.h(1,1): warning C4828: The file contains a character starting at offset 0x288 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'x64/Debug/qt/moc/moc_Lab9_Client.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\MyClient.h(1,1): warning C4828: The file contains a character starting at offset 0x27b that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'x64/Debug/qt/moc/moc_MyClient.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\Lab9_Client.h(1,1): warning C4828: The file contains a character starting at offset 0x28d that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'x64/Debug/qt/moc/moc_Lab9_Client.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\MyClient.h(1,1): warning C4828: The file contains a character starting at offset 0x27f that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'x64/Debug/qt/moc/moc_MyClient.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\Lab9_Client.h(1,1): warning C4828: The file contains a character starting at offset 0x290 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'x64/Debug/qt/moc/moc_Lab9_Client.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\MyClient.h(1,1): warning C4828: The file contains a character starting at offset 0x282 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'x64/Debug/qt/moc/moc_MyClient.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\Lab9_Client.h(1,1): warning C4828: The file contains a character starting at offset 0x2f0 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'x64/Debug/qt/moc/moc_Lab9_Client.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\Lab9_Client.h(1,1): warning C4828: The file contains a character starting at offset 0x2f2 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'x64/Debug/qt/moc/moc_Lab9_Client.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\Lab9_Client.h(1,1): warning C4828: The file contains a character starting at offset 0x2f5 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'x64/Debug/qt/moc/moc_Lab9_Client.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\Lab9_Client.h(1,1): warning C4828: The file contains a character starting at offset 0x2f7 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'x64/Debug/qt/moc/moc_Lab9_Client.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\Lab9_Client.h(1,1): warning C4828: The file contains a character starting at offset 0x2f8 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'x64/Debug/qt/moc/moc_Lab9_Client.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\Lab9_Client.h(1,1): warning C4828: The file contains a character starting at offset 0x2fb that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'x64/Debug/qt/moc/moc_Lab9_Client.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\Lab9_Client.h(1,1): warning C4828: The file contains a character starting at offset 0x2ff that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'x64/Debug/qt/moc/moc_Lab9_Client.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\Lab9_Client.h(1,1): warning C4828: The file contains a character starting at offset 0x300 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'x64/Debug/qt/moc/moc_Lab9_Client.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\Lab9_Client.h(1,1): warning C4828: The file contains a character starting at offset 0x303 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'x64/Debug/qt/moc/moc_Lab9_Client.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\Lab9_Client.h(1,1): warning C4828: The file contains a character starting at offset 0x305 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'x64/Debug/qt/moc/moc_Lab9_Client.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\Lab9_Client.h(1,1): warning C4828: The file contains a character starting at offset 0x326 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'x64/Debug/qt/moc/moc_Lab9_Client.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\Lab9_Client.h(1,1): warning C4828: The file contains a character starting at offset 0x328 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'x64/Debug/qt/moc/moc_Lab9_Client.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\Lab9_Client.h(1,1): warning C4828: The file contains a character starting at offset 0x32c that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'x64/Debug/qt/moc/moc_Lab9_Client.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\Lab9_Client.h(1,1): warning C4828: The file contains a character starting at offset 0x32f that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'x64/Debug/qt/moc/moc_Lab9_Client.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\Lab9_Client.h(1,1): warning C4828: The file contains a character starting at offset 0x351 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'x64/Debug/qt/moc/moc_Lab9_Client.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\Lab9_Client.h(1,1): warning C4828: The file contains a character starting at offset 0x353 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'x64/Debug/qt/moc/moc_Lab9_Client.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\Lab9_Client.h(1,1): warning C4828: The file contains a character starting at offset 0x357 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'x64/Debug/qt/moc/moc_Lab9_Client.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\Lab9_Client.h(1,1): warning C4828: The file contains a character starting at offset 0x35a that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'x64/Debug/qt/moc/moc_Lab9_Client.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\Lab9_Client.h(1,1): warning C4828: The file contains a character starting at offset 0x368 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'x64/Debug/qt/moc/moc_Lab9_Client.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\Lab9_Client.h(1,1): warning C4828: The file contains a character starting at offset 0x36a that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'x64/Debug/qt/moc/moc_Lab9_Client.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\Lab9_Client.h(1,1): warning C4828: The file contains a character starting at offset 0x36d that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'x64/Debug/qt/moc/moc_Lab9_Client.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\Lab9_Client.h(1,1): warning C4828: The file contains a character starting at offset 0x36f that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'x64/Debug/qt/moc/moc_Lab9_Client.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\Lab9_Client.h(1,1): warning C4828: The file contains a character starting at offset 0x370 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'x64/Debug/qt/moc/moc_Lab9_Client.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\Lab9_Client.h(1,1): warning C4828: The file contains a character starting at offset 0x3b4 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'x64/Debug/qt/moc/moc_Lab9_Client.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\Lab9_Client.h(1,1): warning C4828: The file contains a character starting at offset 0x3b6 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'x64/Debug/qt/moc/moc_Lab9_Client.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\Lab9_Client.h(1,1): warning C4828: The file contains a character starting at offset 0x3b9 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'x64/Debug/qt/moc/moc_Lab9_Client.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\Lab9_Client.h(1,1): warning C4828: The file contains a character starting at offset 0x3bb that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'x64/Debug/qt/moc/moc_Lab9_Client.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\Lab9_Client.h(1,1): warning C4828: The file contains a character starting at offset 0x3be that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'x64/Debug/qt/moc/moc_Lab9_Client.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\Lab9_Client.h(1,1): warning C4828: The file contains a character starting at offset 0x3c1 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'x64/Debug/qt/moc/moc_Lab9_Client.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\Lab9_Client.h(1,1): warning C4828: The file contains a character starting at offset 0x3c4 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'x64/Debug/qt/moc/moc_Lab9_Client.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\MyClient.h(1,1): warning C4828: The file contains a character starting at offset 0x1a8 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'x64/Debug/qt/moc/moc_Lab9_Client.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\MyClient.h(1,1): warning C4828: The file contains a character starting at offset 0x1aa that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'x64/Debug/qt/moc/moc_Lab9_Client.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\MyClient.h(1,1): warning C4828: The file contains a character starting at offset 0x1ae that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'x64/Debug/qt/moc/moc_Lab9_Client.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\MyClient.h(1,1): warning C4828: The file contains a character starting at offset 0x1b2 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'x64/Debug/qt/moc/moc_Lab9_Client.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\MyClient.h(1,1): warning C4828: The file contains a character starting at offset 0x1b7 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'x64/Debug/qt/moc/moc_Lab9_Client.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\MyClient.h(1,1): warning C4828: The file contains a character starting at offset 0x1ba that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'x64/Debug/qt/moc/moc_Lab9_Client.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\MyClient.h(1,1): warning C4828: The file contains a character starting at offset 0x1bb that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'x64/Debug/qt/moc/moc_Lab9_Client.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\MyClient.h(1,1): warning C4828: The file contains a character starting at offset 0x1fc that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'x64/Debug/qt/moc/moc_Lab9_Client.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\MyClient.h(1,1): warning C4828: The file contains a character starting at offset 0x201 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'x64/Debug/qt/moc/moc_Lab9_Client.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\MyClient.h(1,1): warning C4828: The file contains a character starting at offset 0x203 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'x64/Debug/qt/moc/moc_Lab9_Client.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\MyClient.h(1,1): warning C4828: The file contains a character starting at offset 0x205 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'x64/Debug/qt/moc/moc_Lab9_Client.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\MyClient.h(1,1): warning C4828: The file contains a character starting at offset 0x206 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'x64/Debug/qt/moc/moc_Lab9_Client.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\MyClient.h(1,1): warning C4828: The file contains a character starting at offset 0x23c that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'x64/Debug/qt/moc/moc_Lab9_Client.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\MyClient.h(1,1): warning C4828: The file contains a character starting at offset 0x23e that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'x64/Debug/qt/moc/moc_Lab9_Client.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\MyClient.h(1,1): warning C4828: The file contains a character starting at offset 0x242 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'x64/Debug/qt/moc/moc_Lab9_Client.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\MyClient.h(1,1): warning C4828: The file contains a character starting at offset 0x245 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'x64/Debug/qt/moc/moc_Lab9_Client.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\MyClient.h(1,1): warning C4828: The file contains a character starting at offset 0x279 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'x64/Debug/qt/moc/moc_Lab9_Client.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\MyClient.h(1,1): warning C4828: The file contains a character starting at offset 0x27b that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'x64/Debug/qt/moc/moc_Lab9_Client.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\MyClient.h(1,1): warning C4828: The file contains a character starting at offset 0x27f that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'x64/Debug/qt/moc/moc_Lab9_Client.cpp')
+  
+D:\Second_Course\OS\Lab9_Client\Lab9_Client\MyClient.h(1,1): warning C4828: The file contains a character starting at offset 0x282 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'x64/Debug/qt/moc/moc_Lab9_Client.cpp')
+  
+  Lab9_Client.vcxproj -> D:\Second_Course\OS\Lab9_Client\x64\Debug\Lab9_Client.exe
