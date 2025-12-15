@@ -1,0 +1,79 @@
+/* --- ЗАГАЛЬНИЙ ФОН --- */
+QMainWindow, QWidget {
+    background-color: #2b2d30;
+    color: #e0e0e0;
+    font-family: "Segoe UI", sans-serif;
+    font-size: 14px;
+}
+
+/* --- ПОЛЯ ВВОДУ (IP, Ім'я, Тема) --- */
+QLineEdit, QTextEdit, QListWidget {
+    background-color: #1e1f22;
+    border: 1px solid #3f4042;
+    border-radius: 5px;
+    padding: 8px;
+    color: #ffffff;
+    selection-background-color: #5865F2;
+}
+
+    QLineEdit:focus, QTextEdit:focus {
+        border: 1px solid #5865F2; /* Синя рамка при фокусі */
+    }
+
+/* --- КНОПКИ --- */
+QPushButton {
+    background-color: #5865F2; /* Discord Blue */
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+    QPushButton:hover {
+        background-color: #4752c4; /* Темніший при наведенні */
+    }
+
+    QPushButton:pressed {
+        background-color: #3c45a5;
+    }
+
+    QPushButton:disabled {
+        background-color: #404249; /* Сірий, коли вимкнена */
+        color: #888888;
+    }
+
+    /* --- КНОПКА ВИДАЛЕННЯ (ЧЕРВОНА) --- */
+    /* Ми дамо їй спеціальне ім'я в коді, щоб вона була червоною */
+    QPushButton#btnKick {
+        background-color: #da373c;
+    }
+
+        QPushButton#btnKick:hover {
+            background-color: #a1282c;
+        }
+
+/* --- СПИСКИ --- */
+QListWidget::item {
+    padding: 8px;
+    border-radius: 4px;
+}
+
+    QListWidget::item:selected {
+        background-color: #404249;
+        border-left: 3px solid #5865F2;
+    }
+
+/* --- ЗАГОЛОВКИ І ТЕКСТ --- */
+QLabel {
+    color: #dbdee1;
+    font-weight: bold;
+}
+
+    /* --- ТАЙМЕР (Великий і гарний) --- */
+    QLabel#timerLabel {
+        color: #2ecc71; /* Зелений */
+        font-size: 36px;
+        font-weight: 800;
+    }
